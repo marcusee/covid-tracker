@@ -1,0 +1,8 @@
+.graph_card {
+    flex:1;
+    height:300px;
+}
+
+.graph_card:not(:last-child) {
+    margin-right: 15px;
+}
